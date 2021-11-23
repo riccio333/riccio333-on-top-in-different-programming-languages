@@ -1,0 +1,14 @@
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\bin\Debug\netcoreapp3.1\riccio333.exe
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\bin\Debug\netcoreapp3.1\riccio333.deps.json
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\bin\Debug\netcoreapp3.1\riccio333.runtimeconfig.json
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\bin\Debug\netcoreapp3.1\riccio333.runtimeconfig.dev.json
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\bin\Debug\netcoreapp3.1\riccio333.dll
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\bin\Debug\netcoreapp3.1\riccio333.pdb
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\obj\Debug\netcoreapp3.1\riccio333.vbproj.AssemblyReference.cache
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\obj\Debug\netcoreapp3.1\riccio333.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\obj\Debug\netcoreapp3.1\riccio333.AssemblyInfoInputs.cache
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\obj\Debug\netcoreapp3.1\riccio333.AssemblyInfo.vb
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\obj\Debug\netcoreapp3.1\riccio333.vbproj.CoreCompileInputs.cache
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\obj\Debug\netcoreapp3.1\riccio333.dll
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\obj\Debug\netcoreapp3.1\riccio333.pdb
+C:\Users\erikp\OneDrive\Desktop\All coding languages programs\Visual Basic\riccio333\riccio333\obj\Debug\netcoreapp3.1\riccio333.genruntimeconfig.cache
