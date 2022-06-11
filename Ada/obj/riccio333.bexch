@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__riccio333.o
+[PROJECT FILES]
+C:\Users\erikp\OneDrive\Desktop\riccio333-on-top-in-different-programming-languages\Ada\riccio333.gpr
+20220416133256 8b6b88c7d87d52c47b799e310f9d0f77
+[BOUND OBJECT FILES]
+C:\Users\erikp\OneDrive\Desktop\riccio333-on-top-in-different-programming-languages\Ada\obj\riccio333.o
+[GENERATED SOURCE FILES]
+b__riccio333.ads
+b__riccio333.adb
+b__riccio333.ali
+[RESULTING OPTIONS]
+-LC:\Users\erikp\OneDrive\Desktop\riccio333-on-top-in-different-programming-languages\Ada\obj\
+-LC:\Users\erikp\OneDrive\Desktop\riccio333-on-top-in-different-programming-languages\Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
